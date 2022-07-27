@@ -4,6 +4,8 @@ import './App.css';
 function App() {
   console.log('Pierwszy po')
 
+  console.log('1')
+
 
 
   return (
