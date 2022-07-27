@@ -12,7 +12,7 @@ function App() {
   console.log('ficzer1-3')
 
 
-
+  console.log('ficzer123')
   return (
     <div className="App">
       <header className="App-header">
