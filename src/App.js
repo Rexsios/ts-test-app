@@ -2,14 +2,12 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  console.log('Pierwszy po')
 
-  console.log('1')
-  console.log('ficzer1-1')
+  console.log('myFiczer')
 
-  console.log('ficzer1-2')
+  console.log('myFiczer2')
 
-  console.log('ficzer1-3')
+  console.log('myFiczer123456')
 
 
   console.log('ficzer123')
