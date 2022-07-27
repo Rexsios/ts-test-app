@@ -11,6 +11,8 @@ function App() {
 
   console.log('hotfix')
 
+  console.log('fixHotfix')
+
   return (
     <div className="App">
       <header className="App-header">
