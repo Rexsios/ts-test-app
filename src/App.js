@@ -13,6 +13,7 @@ function App() {
 
 
   console.log('ficzer123')
+  console.log('ficzer456')
   return (
     <div className="App">
       <header className="App-header">
