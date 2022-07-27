@@ -5,6 +5,11 @@ function App() {
   console.log('Pierwszy po')
 
   console.log('1')
+  console.log('ficzer1-1')
+
+  console.log('ficzer1-2')
+
+  console.log('ficzer1-3')
 
 
 
