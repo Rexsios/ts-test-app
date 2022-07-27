@@ -11,6 +11,14 @@ function App() {
 
   console.log('ficzer1-3')
 
+  console.log('nowyficzer')
+
+  console.log('dsasdasd')
+
+  console.log('hahahaha')
+
+  console.log('mehaha')
+
 
 
   return (
