@@ -7,6 +7,11 @@ function App() {
   console.log('file1-1')
   console.log('ficzer1-2')
   console.log('ficzer 1-3')
+
+  console.log('ficzer1-3')
+
+
+  console.log('ficzer123')
   return (
     <div className="App">
       <header className="App-header">
