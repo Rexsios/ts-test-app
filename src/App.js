@@ -12,6 +12,9 @@ function App() {
 
 
   console.log('ficzer123')
+
+
+  console.log('cherry1')
   return (
     <div className="App">
       <header className="App-header">
