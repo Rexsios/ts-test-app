@@ -15,6 +15,7 @@ function App() {
 
 
   console.log('cherry1')
+  console.log('cherry2')
   return (
     <div className="App">
       <header className="App-header">
